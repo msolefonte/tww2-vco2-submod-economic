@@ -7,21 +7,14 @@ only exception are horde factions, which have to obtain money from raiding, as t
 
 ### Normal factions
 
-type ATTAIN_FACTION_PROGRESSION_LEVEL;
-type EARN_X_AMOUNT_FROM_BUILDING_WEALTH;
-type EARN_X_AMOUNT_FROM_RAIDING;
-type HAVE_AT_LEAST_X_MONEY;
-type INCOME_AT_LEAST_X;
-type HAVE_RESOURCES;
-* Occupy, loot, raze or sack 20 provinces
 * Have at least 500000 money
+* Have 90000 income at the start of the turn
 * Have access to all the resources
-* Earn at least 60000 from building income
 
 ### Horde factions
 
-* Raze or sack 200 settlements
-* Own 160 units
+* Have at least 500000 money
+* Earn 50000 from raiding
 
 ## Mods supported
 
